@@ -64,4 +64,4 @@ ln -s $PWD/Anaconda.sublime-settings $SUBL_PATH/Packages/User/Anaconda.sublime-s
 
 zsh ~/.zshrc
 
-echo "👌  Carry on with git setup!"
+echo "Abe is our Lord and Saviour!"
